@@ -1,6 +1,6 @@
 # Alien Invasion
 
-Alien Invasion is a simple game developed using Python 3 and Pygame library. The objective of the game is to shoot down the aliens before they reach the bottom of the screen.
+Alien Invasion is a simple game developed using Python 3 and Pygame library. The objective of the game is to shoot down the aliens before they reach the bottom of the screen or attack you.
 
 ## Installation
 
@@ -20,14 +20,8 @@ To start the game, run the following command in the terminal:
 
 Once the game starts, you can use the following controls:
 
-- Use the left and right arrow keys to move the ship.
-- Use the spacebar to fire bullets.
+- Use the directional keys to move the spaceship.
+- Use the spacebar to fire bullets, max is 5.
 - Press 'Q' to quit the game.
-
-## Credits
-
-The game was developed by [Your Name Here]. It was inspired by the classic arcade game Space Invaders.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Press 'P' to start the game.
+- To select the difficulty level, click on the difficulty level, then click on `Start`
