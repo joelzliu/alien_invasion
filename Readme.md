@@ -1,1 +1,0 @@
-Select difficulty level, then click 'Play'
