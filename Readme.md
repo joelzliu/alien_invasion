@@ -23,5 +23,5 @@ Once the game starts, you can use the following controls:
 - Use the directional keys to move the spaceship.
 - Use the spacebar to fire bullets, max is 5.
 - Press 'Q' to quit the game.
-- Press 'P' to start the game.
+- Press 'P' or just click on `Start` to start the game.
 - To select the difficulty level, click on the difficulty level, then click on `Start`
